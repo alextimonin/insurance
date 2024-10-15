@@ -1,0 +1,66 @@
+{
+  "header": {
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Protect What Matters Most",
+    "subtitle": "Tailored insurance solutions for your peace of mind",
+    "cta": "Get a Quote"
+  },
+  "services": {
+    "title": "Our Services",
+    "car": {
+      "title": "Car Insurance",
+      "description": "Comprehensive coverage for your vehicle, including liability and collision protection.",
+      "features": [
+        "Liability coverage",
+        "Collision protection",
+        "24/7 roadside assistance",
+        "Flexible payment options",
+        "Personalized coverage plans"
+      ]
+    },
+    "residency": {
+      "title": "Temporary Residency Insurance",
+      "description": "Specialized insurance for temporary residents, ensuring peace of mind during your stay.",
+      "features": [
+        "Medical coverage",
+        "Liability protection",
+        "Travel assistance",
+        "Legal support",
+        "Flexible duration options"
+      ]
+    },
+    "life": {
+      "title": "Life Insurance",
+      "description": "Secure your family's future with our flexible life insurance policies.",
+      "features": [
+        "Term life insurance",
+        "Whole life insurance",
+        "Critical illness coverage",
+        "Disability income protection",
+        "Customizable policy options"
+      ]
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "PolSafe Insurance is a small, dedicated team of three insurance professionals based in Poland. With years of experience in the industry, we specialize in providing tailored insurance solutions to meet the unique needs of our clients.",
+    "description2": "Our focus on car insurance, temporary residency coverage, and life insurance allows us to offer expert advice and personalized service. We pride ourselves on our commitment to our clients and our in-depth understanding of the Polish insurance market."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "successMessage": "Thank you for your message. We will get back to you soon!",
+    "errorMessage": "Sorry, there was an error sending your message. Please try again later."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "serving": "Serving Poland with trusted insurance solutions."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "header": {
+    "services": "Usługi",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Chroń to, co najważniejsze",
+    "subtitle": "Dopasowane rozwiązania ubezpieczeniowe dla Twojego spokoju",
+    "cta": "Otrzymaj wycenę"
+  },
+  "services": {
+    "title": "Nasze usługi",
+    "car": {
+      "title": "Ubezpieczenie samochodu",
+      "description": "Kompleksowe ubezpieczenie pojazdu, w tym OC i AC.",
+      "features": [
+        "Ubezpieczenie OC",
+        "Ubezpieczenie AC",
+        "Pomoc drogowa 24/7",
+        "Elastyczne opcje płatności",
+        "Spersonalizowane plany ubezpieczeniowe"
+      ]
+    },
+    "residency": {
+      "title": "Ubezpieczenie dla rezydentów tymczasowych",
+      "description": "Specjalistyczne ubezpieczenie dla rezydentów tymczasowych, zapewniające spokój podczas pobytu.",
+      "features": [
+        "Ubezpieczenie medyczne",
+        "Ochrona od odpowiedzialności cywilnej",
+        "Pomoc w podróży",
+        "Wsparcie prawne",
+        "Elastyczne opcje czasowe"
+      ]
+    },
+    "life": {
+      "title": "Ubezpieczenie na życie",
+      "description": "Zabezpiecz przyszłość swojej rodziny dzięki elastycznym polisam na życie.",
+      "features": [
+        "Terminowe ubezpieczenie na życie",
+        "Dożywotnie ubezpieczenie na życie",
+        "Ubezpieczenie od chorób krytycznych",
+        "Ochrona dochodu w razie niepełnosprawności",
+        "Możliwość dostosowania polisy"
+      ]
+    }
+  },
+  "about": {
+    "title": "O nas",
+    "description1": "PolSafe Insurance to mały, oddany zespół trzech profesjonalistów ubezpieczeniowych z siedzibą w Polsce. Dzięki wieloletniemu doświadczeniu w branży specjalizujemy się w dostarczaniu dopasowanych rozwiązań ubezpieczeniowych, aby spełnić unikalne potrzeby naszych klientów.",
+    "description2": "Nasze skupienie na ubezpieczeniach samochodowych, ubezpieczeniach dla rezydentów tymczasowych i ubezpieczeniach na życie pozwala nam oferować eksperckie porady i spersonalizowaną obsługę. Jesteśmy dumni z naszego zaangażowania w obsługę klientów i dogłębnego zrozumienia polskiego rynku ubezpieczeń."
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "name": "Imię",
+    "email": "Email",
+    "message": "Wiadomość",
+    "submit": "Wyślij wiadomość",
+    "successMessage": "Dziękujemy za Twoją wiadomość. Odpowiemy wkrótce!",
+    "errorMessage": "Przepraszamy, wystąpił błąd podczas wysyłania wiadomości. Proszę spróbować ponownie później."
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "serving": "Obsługujemy Polskę zaufanymi rozwiązaniami ubezpieczeniowymi."
+  }
+}
